@@ -1,7 +1,7 @@
 BUILD_BROKEN_DUP_RULES := true
 
 #
-# Copyright (C) 2021 The LineageOS Project
+# Copyright (C) 2021 The ArrowOS Project
 #
 # SPDX-License-Identifier: Apache-2.0
 #
